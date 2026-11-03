@@ -1,11 +1,14 @@
 # Cloud Service Demo
 
+## Project Name
+Cloud Service Demo
+
 ## Project Purpose
-Cloud Service Demo is a small sample web application that represents a service that could be hosted on a cloud platform. It provides a simple homepage and serves as a practice project for learning Git and GitHub version control.
+The purpose of this project is to create a simple sample web application that represents a service that could be hosted on a cloud platform.
 
 ## Files Included
-- `README.md` — describes the project, its purpose, and its files.
-- `index.html` — contains the sample Cloud Service Demo homepage.
+- **README.md:** Provides information about the project, its purpose, and the files included.
+- **index.html:** Contains the HTML code for the sample Cloud Service Demo webpage.
 
-## Version Control
-Version control helps a cloud project by tracking changes over time, allowing team members to collaborate safely, review earlier versions, and restore working code when needed.
+## How Version Control Helps a Cloud Project
+Version control helps a cloud project by tracking changes, maintaining a history of updates, allowing team members to collaborate, and making it easier to restore previous versions when needed.
